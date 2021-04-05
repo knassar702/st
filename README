@@ -32,3 +32,13 @@ Credits
 -------
 Based on Aurélien APTEL <aurelien dot aptel at gmail dot com> bt source code.
 
+
+Patches
+-------
+* clipboard
+* copyurl
+* delkey
+* darcula theme
+* dcc
+
+you can find them in mypatches folder
